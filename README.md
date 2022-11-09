@@ -10,7 +10,7 @@ It is a FullStack web application. I broke this project to 3 pieces because I wa
 
 2- WebApp(cs50-image-processor-web-app) - WebApp has Controller which exposes the necessary method as an API.  Also has UI project.
 
-3-UnitTests(cs50-image-processing-unit-tests) - UnitTests has test method for the project. Since project has 1 method, I have not go in detail.
+3-UnitTests(cs50-image-processing-unit-tests) - UnitTests has test method for the project. Since project has 1 method, I did not go in detail.
 
 Backend is written .NET 6. I tried to implement Template Design Method for this particular process. I checked several design methods and this one I found logical to the concept. 
 
