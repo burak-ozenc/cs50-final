@@ -96,6 +96,7 @@ const DropZone = ({
                     {previewUrl && <img
                         src={file.preview}
                         className="dropzone-image"
+                        alt={file.name}
                         onLoad={() => {
                             URL.revokeObjectURL(previewUrl)
                         }}
