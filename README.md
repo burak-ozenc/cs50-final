@@ -4,7 +4,7 @@
 
 This is yet another Image Processing Application which helps user to convert, resize and add filter images.
 
-It is a FullStack web application. I broke this project to 3 pieces because I wanted a clean structure and to be able to apply my knowledge to this project. UnitTests can be uncessary or design pattern may not the best choice but I wanted to do something clean. I And I hope I did.
+It is a FullStack web application. I broke this project to 3 pieces because I wanted a clean structure and to be able to apply my knowledge to this project. UnitTests can be uncessary or design pattern may not the best choice but I wanted to do something clean. And I hope I did.
 
 1- Core(cs50-image-processing-core) - Core has all the necessary methods for the project. 
 
