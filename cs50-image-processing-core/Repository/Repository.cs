@@ -1,6 +1,5 @@
 ﻿using cs50_image_processing_core.Models;
 
-
 namespace cs50_image_processing_core.Repository;
 
 public abstract class Repository
@@ -11,10 +10,10 @@ public abstract class Repository
     public abstract byte[] Connect(InputFileDto inputFileDto);
     // apply filter
     public abstract byte[] ApplyFilter(byte[] modifiedArray);
-    // resize if parameters are given
+    // resize 
     public abstract byte[] Resize(byte[] modifiedArray, int? height,int? width);
-    // free memory
-    public abstract  OutputFileDto Disconnect(byte[] bytes);
+    // finish process
+    public abstract  OutputFileDto Finalize(byte[] bytes);
 
     // The 'Template Method' 
 
@@ -24,7 +23,7 @@ public abstract class Repository
         byte[] bytes = Connect(inputFileDto);
         bytes = ApplyFilter(bytes);
         bytes = Resize(bytes,inputFileDto.Height,inputFileDto.Width);
-        OutputFileDto outputFileDto = Disconnect(bytes);
+        OutputFileDto outputFileDto = Finalize(bytes);
         
         return outputFileDto;
     }

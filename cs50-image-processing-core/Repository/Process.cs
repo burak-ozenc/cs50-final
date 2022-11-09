@@ -62,17 +62,12 @@ public class Process : Repository
         
     }
 
-    public override OutputFileDto Disconnect(byte[] bytes)
+    public override OutputFileDto Finalize(byte[] bytes)
     {
-        // WHAT TO DO HERE
-        // LOOK FOR .NET MEMORY MANAGEMENT
-        // CHECK DOT TRACER 
         OutputFileDto result = new OutputFileDto();
         result.FileName = _fileName;
         result.ByteArray = bytes;
-        // // categories.Clear();
-
-
+        
         return result;
     }
 }

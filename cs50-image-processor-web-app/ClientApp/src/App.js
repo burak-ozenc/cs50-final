@@ -1,13 +1,13 @@
-// import {AnimatePresence} from "framer-motion";
 import {BrowserRouter, Route, Routes} from "react-router-dom";
 // PAGES
 import Index from "./pages/Index";
 import ConvertTo from "./pages/convert-to";
 import Type from "./pages/type";
+// COMPONENTS
+import Layout from "./components/layout";
 // CSS
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './assets/css/style.css';
-import Layout from "./components/layout";
 
 function App() {
     return (
