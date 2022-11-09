@@ -105,14 +105,8 @@ C:\Users\LENOVO\RiderProjects\cs50-image-processor-web-app\cs50-image-processing
 C:\Users\LENOVO\RiderProjects\cs50-image-processor-web-app\cs50-image-processing-unit-tests\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\LENOVO\RiderProjects\cs50-image-processor-web-app\cs50-image-processing-unit-tests\bin\Debug\net6.0\appsettings.json
 C:\Users\LENOVO\RiderProjects\cs50-image-processor-web-app\cs50-image-processing-unit-tests\bin\Debug\net6.0\cs50-image-processor-web-app.exe
-C:\Users\LENOVO\RiderProjects\cs50-image-processor-web-app\cs50-image-processing-unit-tests\bin\Debug\net6.0\Castle.Core.dll
 C:\Users\LENOVO\RiderProjects\cs50-image-processor-web-app\cs50-image-processing-unit-tests\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
-C:\Users\LENOVO\RiderProjects\cs50-image-processor-web-app\cs50-image-processing-unit-tests\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\LENOVO\RiderProjects\cs50-image-processor-web-app\cs50-image-processing-unit-tests\bin\Debug\net6.0\Moq.dll
 C:\Users\LENOVO\RiderProjects\cs50-image-processor-web-app\cs50-image-processing-unit-tests\bin\Debug\net6.0\SixLabors.ImageSharp.dll
-C:\Users\LENOVO\RiderProjects\cs50-image-processor-web-app\cs50-image-processing-unit-tests\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\LENOVO\RiderProjects\cs50-image-processor-web-app\cs50-image-processing-unit-tests\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\LENOVO\RiderProjects\cs50-image-processor-web-app\cs50-image-processing-unit-tests\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\LENOVO\RiderProjects\cs50-image-processor-web-app\cs50-image-processing-unit-tests\bin\Debug\net6.0\cs50-image-processing-core.dll
 C:\Users\LENOVO\RiderProjects\cs50-image-processor-web-app\cs50-image-processing-unit-tests\bin\Debug\net6.0\cs50-image-processor-web-app.dll
 C:\Users\LENOVO\RiderProjects\cs50-image-processor-web-app\cs50-image-processing-unit-tests\bin\Debug\net6.0\cs50-image-processing-core.pdb
