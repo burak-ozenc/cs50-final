@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L/4xc98bmYQrnCxtY4h9hYx3mCtGcbj9RuU9MgiQ9FoQgBUCBvRaZBUkaKozVlTpIxt26RXKzSgWHiXdcHIi7A==",
+  "dgSpecHash": "94IGEpdGG5wVkPBCUjapQAwCts6WHOESmib2jL+ei5JTp1pvCRQQbWEV/IF9lOlty6dr/Rtr4Mzztw38gCwtLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\Projects\\cs50-final-test-2\\cs50-image-processing-unit-tests\\cs50-image-processing-unit-tests.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\RiderProjects\\cs50-image-processor-web-app\\cs50-image-processing-unit-tests\\cs50-image-processing-unit-tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.2\\microsoft.aspnetcore.http.2.2.2.nupkg.sha512",

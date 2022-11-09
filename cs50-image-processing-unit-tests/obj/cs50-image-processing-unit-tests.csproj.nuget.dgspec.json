@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\Projects\\cs50-final-test-2\\cs50-image-processing-unit-tests\\cs50-image-processing-unit-tests.csproj": {}
+    "C:\\Users\\LENOVO\\RiderProjects\\cs50-image-processor-web-app\\cs50-image-processing-unit-tests\\cs50-image-processing-unit-tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\Projects\\cs50-final-test-2\\cs50-image-processing-core\\cs50-image-processing-core.csproj": {
+    "C:\\Users\\LENOVO\\RiderProjects\\cs50-image-processor-web-app\\cs50-image-processing-core\\cs50-image-processing-core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Projects\\cs50-final-test-2\\cs50-image-processing-core\\cs50-image-processing-core.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\RiderProjects\\cs50-image-processor-web-app\\cs50-image-processing-core\\cs50-image-processing-core.csproj",
         "projectName": "cs50-image-processing-core",
-        "projectPath": "C:\\Users\\LENOVO\\Projects\\cs50-final-test-2\\cs50-image-processing-core\\cs50-image-processing-core.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\RiderProjects\\cs50-image-processor-web-app\\cs50-image-processing-core\\cs50-image-processing-core.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Projects\\cs50-final-test-2\\cs50-image-processing-core\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\RiderProjects\\cs50-image-processor-web-app\\cs50-image-processing-core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\LENOVO\\Projects\\cs50-final-test-2\\cs50-image-processing-unit-tests\\cs50-image-processing-unit-tests.csproj": {
+    "C:\\Users\\LENOVO\\RiderProjects\\cs50-image-processor-web-app\\cs50-image-processing-unit-tests\\cs50-image-processing-unit-tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Projects\\cs50-final-test-2\\cs50-image-processing-unit-tests\\cs50-image-processing-unit-tests.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\RiderProjects\\cs50-image-processor-web-app\\cs50-image-processing-unit-tests\\cs50-image-processing-unit-tests.csproj",
         "projectName": "cs50-image-processing-unit-tests",
-        "projectPath": "C:\\Users\\LENOVO\\Projects\\cs50-final-test-2\\cs50-image-processing-unit-tests\\cs50-image-processing-unit-tests.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\RiderProjects\\cs50-image-processor-web-app\\cs50-image-processing-unit-tests\\cs50-image-processing-unit-tests.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Projects\\cs50-final-test-2\\cs50-image-processing-unit-tests\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\RiderProjects\\cs50-image-processor-web-app\\cs50-image-processing-unit-tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -103,11 +103,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\LENOVO\\Projects\\cs50-final-test-2\\cs50-image-processing-core\\cs50-image-processing-core.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\Projects\\cs50-final-test-2\\cs50-image-processing-core\\cs50-image-processing-core.csproj"
+              "C:\\Users\\LENOVO\\RiderProjects\\cs50-image-processor-web-app\\cs50-image-processing-core\\cs50-image-processing-core.csproj": {
+                "projectPath": "C:\\Users\\LENOVO\\RiderProjects\\cs50-image-processor-web-app\\cs50-image-processing-core\\cs50-image-processing-core.csproj"
               },
-              "C:\\Users\\LENOVO\\Projects\\cs50-final-test-2\\cs50-image-processor-web-app\\cs50-image-processor-web-app.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\Projects\\cs50-final-test-2\\cs50-image-processor-web-app\\cs50-image-processor-web-app.csproj"
+              "C:\\Users\\LENOVO\\RiderProjects\\cs50-image-processor-web-app\\cs50-image-processor-web-app\\cs50-image-processor-web-app.csproj": {
+                "projectPath": "C:\\Users\\LENOVO\\RiderProjects\\cs50-image-processor-web-app\\cs50-image-processor-web-app\\cs50-image-processor-web-app.csproj"
               }
             }
           }
@@ -163,14 +163,14 @@
         }
       }
     },
-    "C:\\Users\\LENOVO\\Projects\\cs50-final-test-2\\cs50-image-processor-web-app\\cs50-image-processor-web-app.csproj": {
+    "C:\\Users\\LENOVO\\RiderProjects\\cs50-image-processor-web-app\\cs50-image-processor-web-app\\cs50-image-processor-web-app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Projects\\cs50-final-test-2\\cs50-image-processor-web-app\\cs50-image-processor-web-app.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\RiderProjects\\cs50-image-processor-web-app\\cs50-image-processor-web-app\\cs50-image-processor-web-app.csproj",
         "projectName": "cs50-image-processor-web-app",
-        "projectPath": "C:\\Users\\LENOVO\\Projects\\cs50-final-test-2\\cs50-image-processor-web-app\\cs50-image-processor-web-app.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\RiderProjects\\cs50-image-processor-web-app\\cs50-image-processor-web-app\\cs50-image-processor-web-app.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Projects\\cs50-final-test-2\\cs50-image-processor-web-app\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\RiderProjects\\cs50-image-processor-web-app\\cs50-image-processor-web-app\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -192,8 +192,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\LENOVO\\Projects\\cs50-final-test-2\\cs50-image-processing-core\\cs50-image-processing-core.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\Projects\\cs50-final-test-2\\cs50-image-processing-core\\cs50-image-processing-core.csproj"
+              "C:\\Users\\LENOVO\\RiderProjects\\cs50-image-processor-web-app\\cs50-image-processing-core\\cs50-image-processing-core.csproj": {
+                "projectPath": "C:\\Users\\LENOVO\\RiderProjects\\cs50-image-processor-web-app\\cs50-image-processing-core\\cs50-image-processing-core.csproj"
               }
             }
           }
