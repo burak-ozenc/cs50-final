@@ -57,6 +57,7 @@ const DropZone = ({
             // check for errors
             if (rejectedFiles[0]) {
                 handleError(rejectedFiles[0].errors[0])
+                removeImage()
             }
             
             // set Image for request
@@ -82,11 +83,7 @@ const DropZone = ({
     function handleError(error) {
         setInnerErrorMessage(error.message)
     }
-    
-    useEffect(() => {
-        console.log('name',name)
-        console.log('slug',slug)
-    },[isLoading])
+
     
     // create image preview 
     const thumbs = files.map((file, i) => (
