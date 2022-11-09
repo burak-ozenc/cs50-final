@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44465",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\LENOVO\\RiderProjects\\cs50-image-processor-web-app\\cs50-image-processor-web-app\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}

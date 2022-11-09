@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Bmp",
+    "value": 1,
+    "slug": "bmp",
+    "description": "Convert to Bmp"
+  },
+  {
+    "name": "Jpeg",
+    "value": 2,
+    "slug": "jpeg",
+    "description": "Convert to Jpeg"
+  },
+  {
+    "name": "Pbm",
+    "value": 3,
+    "slug": "pbm",
+    "description": "Convert to Pbm"
+  },
+  {
+    "name": "Png",
+    "value": 4,
+    "slug": "png",
+    "description": "Convert to Png"
+  },
+  {
+    "name": "Tiff",
+    "value": 5,
+    "slug": "tiff",
+    "description": "Convert to Tiff"
+  },
+  {
+    "name": "Tga",
+    "value": 6,
+    "slug": "tga",
+    "description": "Convert to Tga"
+  },
+  {
+    "name": "WebP",
+    "value": 7,
+    "slug": "webp",
+    "description": "Convert to WebP"
+  }
+]

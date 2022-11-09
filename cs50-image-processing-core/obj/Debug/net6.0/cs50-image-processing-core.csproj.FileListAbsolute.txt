@@ -1,0 +1,12 @@
+C:\Users\LENOVO\RiderProjects\cs50-image-processor-web-app\cs50-image-processing-core\bin\Debug\net6.0\cs50-image-processing-core.deps.json
+C:\Users\LENOVO\RiderProjects\cs50-image-processor-web-app\cs50-image-processing-core\bin\Debug\net6.0\cs50-image-processing-core.dll
+C:\Users\LENOVO\RiderProjects\cs50-image-processor-web-app\cs50-image-processing-core\bin\Debug\net6.0\cs50-image-processing-core.pdb
+C:\Users\LENOVO\RiderProjects\cs50-image-processor-web-app\cs50-image-processing-core\obj\Debug\net6.0\cs50-image-processing-core.csproj.AssemblyReference.cache
+C:\Users\LENOVO\RiderProjects\cs50-image-processor-web-app\cs50-image-processing-core\obj\Debug\net6.0\cs50-image-processing-core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\RiderProjects\cs50-image-processor-web-app\cs50-image-processing-core\obj\Debug\net6.0\cs50-image-processing-core.AssemblyInfoInputs.cache
+C:\Users\LENOVO\RiderProjects\cs50-image-processor-web-app\cs50-image-processing-core\obj\Debug\net6.0\cs50-image-processing-core.AssemblyInfo.cs
+C:\Users\LENOVO\RiderProjects\cs50-image-processor-web-app\cs50-image-processing-core\obj\Debug\net6.0\cs50-image-processing-core.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\RiderProjects\cs50-image-processor-web-app\cs50-image-processing-core\obj\Debug\net6.0\cs50-image-processing-core.dll
+C:\Users\LENOVO\RiderProjects\cs50-image-processor-web-app\cs50-image-processing-core\obj\Debug\net6.0\refint\cs50-image-processing-core.dll
+C:\Users\LENOVO\RiderProjects\cs50-image-processor-web-app\cs50-image-processing-core\obj\Debug\net6.0\cs50-image-processing-core.pdb
+C:\Users\LENOVO\RiderProjects\cs50-image-processor-web-app\cs50-image-processing-core\obj\Debug\net6.0\ref\cs50-image-processing-core.dll
